@@ -6,7 +6,7 @@
 
 
 
-# FIGHTBOT
+# MEGA STORM
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
 
 FIGHTBOT made by @H1M4N5HU0P. Supported by respective hellbot owner @H1M4N5HU0P. Join for update related info channel and group :- https://t.me/MAFIA_USERBOT THANKS FOR VISITING OUR REPO💖
